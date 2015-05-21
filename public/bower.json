@@ -1,0 +1,17 @@
+{
+  "name": "Cilindros",
+  "version": "0.0.1",
+  "description": "Paquetes del Frontend para el proyecto Cilindros.",
+  "moduleType": [
+    "globals"
+  ],
+  "authors": [
+    "Irving Enrique Pio Dávila"
+  ],
+  "license": "MIT",
+  "homepage": "cilindros.app",
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "bootstrap-material-design": "~0.3.0"
+  }
+}
